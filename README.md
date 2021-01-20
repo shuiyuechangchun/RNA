@@ -3,7 +3,7 @@
 #### 介绍
 
 【 **R.N.A** 】
- **支持在WIN10系统中（无需WSL）安卓11及动态分区ROM解包打包工具** 
+ **在WIN10系统中（无需WSL）对安卓11及动态分区ROM进行解包打包工具** 
 
 [下载地址](https://gitee.com/sharpeter/rna/releases/V21.01.20)
 
@@ -19,3 +19,18 @@
 
 
 ![微信](https://gitee.com/sharpeter/rna/raw/master/donate/Wechat-30.png)
+
+
+#### 预览图
+
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
