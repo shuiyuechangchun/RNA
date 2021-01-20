@@ -23,14 +23,14 @@
 
 #### 预览图
 
-![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/views/view_a.png)
 
-![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/views/view_b.png)
 
-![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/views/view_c.png)
 
-![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/views/view_d.png)
 
-![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/views/view_e.png)
 
-![R.N.A](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/views/view_f.png)
