@@ -8,7 +8,7 @@
 注：不支持super.img/payload.bin打包
 
 
-[下载地址](https://gitee.com/sharpeter/rna/releases/V21.01.20)
+[下载地址 优先下载最新版](https://gitee.com/sharpeter/rna/releases)
 
 [免费版D.N.A链接](https://gitee.com/sharpeter/DNA)
 
