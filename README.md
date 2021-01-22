@@ -5,7 +5,14 @@
 【 **R.N.A** 】
  **在WIN10系统中（无需WSL）对安卓11及动态分区ROM进行解包打包工具** 
 
+注：不支持super.img/payload.bin打包
+
+
 [下载地址](https://gitee.com/sharpeter/rna/releases/V21.01.20)
+
+[免费版D.N.A链接](https://gitee.com/sharpeter/DNA)
+
+
 
 打开工具，按提示扫码付费【30元】后，复制你的【 **机器码** 】和【 **付费截图** 】按以下任一方式操作：
 
