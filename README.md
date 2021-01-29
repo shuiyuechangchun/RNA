@@ -49,3 +49,7 @@
 ![R.N.A](https://gitee.com/sharpeter/rna/raw/master/views/view_e.png)
 
 ![R.N.A](https://gitee.com/sharpeter/rna/raw/master/views/view_f.png)
+
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/views/1.png)
+
+![R.N.A](https://gitee.com/sharpeter/rna/raw/master/views/2.png)
