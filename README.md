@@ -14,7 +14,8 @@
 
 
 
-打开工具，按提示扫码付费【30元】后，复制你的【 **机器码** 】和【 **付费截图** 】按以下任一方式操作【尽量选择QQ】：
+
+打开工具，按提示扫码付费【35元】（由于旧版本还在使用并不可修改，实际需付金额请以此处为准）后，复制你的【 **机器码** 】和【 **付费截图** 】按以下任一方式操作【尽量选择QQ】：
 
 1. 加QQ群: [1039063940](https://jq.qq.com/?_wv=1027&k=rfF2JkWY)
 
@@ -29,10 +30,10 @@
 
 #### 收款码
 
-![支付宝](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-30.jpg)
+![支付宝](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-35.jpg)
 
 
-![微信](https://gitee.com/sharpeter/rna/raw/master/donate/Wechat-30.png)
+![微信](https://gitee.com/sharpeter/rna/raw/master/donate/Wechat-35.png)
 
 
 #### 预览图
