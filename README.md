@@ -5,7 +5,8 @@
 【 **R.N.A** 】
  **在WIN10系统中（无需WSL）对安卓11及动态分区ROM进行解包打包工具** 
 
-注：不支持super.img/payload.bin打包
+注： :one: 只解payload.bin，暂时不能打包
+     :two: 支持部分super.img解包及打包（打包需要借助wsl子系统）
 
 
 [下载地址 优先下载最新版](https://gitee.com/sharpeter/rna/releases)
