@@ -1,0 +1,21 @@
+#### [1] 输入的zip不在工具目录内[RNA.EXE同级文件夹]请使用完整路径，支持多个，空格分开
+ROM_REAL_PATH=
+
+#### [2] 需要额外分解的 [boot.img/exaid.img/recovery.img] 等其他镜像，支持多个，空格分开
+EXTRACT_EXTRA_LIST=boot.img
+
+#### [3] 是否合并 A8.0+ vdex    [true/false]
+RUN_DEVDEX=true
+
+#### [4] 需要执行的插件，支持多个，空格分开
+RUN_MODULES=
+
+#### [5] 是否Zipalign Apks    [true/false]
+RUN_ZIPALIGN=false
+
+#### [6] 合成格式 [br/dat/img] 三选一，选择 br 时 REPACK_BROTLI_LEVEL 值必须设置为 [0~9] 之间
+REPACK_FORMAT=br
+REPACK_BROTLI_LEVEL=1
+
+#### [7] 添加额外压缩的文件/夹，文件/夹 必须在 当前工程目录内
+COMPRESS_EXTRA_LIST=META-INF firmware-update exaid.img
