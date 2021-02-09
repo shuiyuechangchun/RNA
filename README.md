@@ -9,6 +9,8 @@
      :two: 支持部分super.img解包及打包（打包需要借助wsl子系统，vAB及AB须手动修改misc_info.txt，例如添加：ab_update=true
 virtual_ab=true）
 
+
+```
 新增20210210 一键制作：
 > 选择工程:
 
@@ -32,6 +34,8 @@ virtual_ab=true）
 
 
 请按任意键继续. . .
+```
+
 
 
 
