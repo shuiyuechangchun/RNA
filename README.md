@@ -9,6 +9,31 @@
      :two: 支持部分super.img解包及打包（打包需要借助wsl子系统，vAB及AB须手动修改misc_info.txt，例如添加：ab_update=true
 virtual_ab=true）
 
+新增20210210 一键制作：
+> 选择工程:
+
+-------------------------------------------------------
+
+
+  [0] - 新建工程
+
+
+-------------------------------------------------------
+
+  [33] - 解压         [66] - 下载         [88] - 退出
+
+
+> 输入序号: 99
+
+
+  哈哈，您已进入一键制作模式
+
+          请正确配置好 【 C:\Users\errors\Desktop\RNA\RNA\Pyd3\dist\Insides\RNAONEKEY.TXT 】 后继续 !!!
+
+
+请按任意键继续. . .
+
+
 
 [下载地址 优先下载最新版](https://gitee.com/sharpeter/rna/releases)
 
