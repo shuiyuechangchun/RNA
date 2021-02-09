@@ -24,7 +24,7 @@ virtual_ab=true）
 
   哈哈，您已进入一键制作模式
 
-          请正确配置好 【 C:\Users\errors\Desktop\RNA\RNA\Pyd3\dist\Insides\RNAONEKEY.TXT 】 后继续 !!!
+          请正确配置好 【 RNA\Insides\RNAONEKEY.TXT 】 后继续 !!!
 
 请按任意键继续. . .
 ```
