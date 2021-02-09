@@ -7,8 +7,7 @@
 
 注： :one: 只解payload.bin，暂时不能打包
      :two: 支持部分super.img解包及打包（打包需要借助wsl子系统，vAB及AB须手动修改misc_info.txt，例如添加：ab_update=true
-virtual_ab=true
-dynamic_partition_retrofit=true）
+virtual_ab=true）
 
 
 [下载地址 优先下载最新版](https://gitee.com/sharpeter/rna/releases)
