@@ -5,39 +5,17 @@
 【 **R.N.A** 】
  **在WIN10系统中（无需WSL）对安卓11及动态分区ROM进行解包打包工具** 
 
- **注意** ： 
-      :one:  **只解payload.bin，暂时不能打包** 
+### 注意
 
-      :two:  **支持部分super.img解包及打包（打包需要借助wsl子系统，vAB及AB须手动修改misc_info.txt，例如添加：ab_update=true
-virtual_ab=true）** 
+ :tw-1f170: **只解payload.bin，暂时不能打包** 
 
-
-```
-新增20210210 一键制作(适合批量制作官改ROM)：
-> 选择工程:
--------------------------------------------------------
-
-  [0] - 新建工程
-
--------------------------------------------------------
-  [33] - 解压         [66] - 下载         [88] - 退出
-
-> 输入序号: 99
-
-  哈哈，您已进入一键制作模式
-
-          请正确配置好 【 RNA\Insides\RNAONEKEY.TXT 】 后继续 !!!
-
-请按任意键继续. . .
-
-
-```
+ :tw-1f171: **支持部分super.img解包及打包，打包需要借助wsl子系统，vA/B及A/B须手动修改[misc_info.txt]，例如添加：ab_update=true** 
 
 
 
 
 
-[下载地址 优先下载最新版](https://gitee.com/sharpeter/rna/releases)
+[下载地址 请优先下载最新版](https://gitee.com/sharpeter/rna/releases)
 
 [免费版D.N.A链接](https://gitee.com/sharpeter/DNA)
 
