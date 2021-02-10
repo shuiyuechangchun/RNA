@@ -1,0 +1,36 @@
+#### [1] 输入的zip不在工具目录内[RNA.EXE同级文件夹]请使用完整路径【支持多个，空格分开】路径不得含有空格！！！
+ROM_REAL_PATH=C:\Users\errors\Downloads\miui_UMI_21.1.13_da6c11c171_11.0.zip
+
+#### [2] 需要额外分解的 [boot.img/exaid.img/recovery.img] 等其他镜像【支持多个，空格分开】
+EXTRACT_EXTRA_LIST=boot.img
+
+#### [3] 是否合并 A8.0+ vdex    [true/false]
+RUN_DEVDEX=false
+
+#### [4] 需要执行的插件【支持多个，空格分开】
+#RUN_MODULES=RNA_MIUI RNA_MIUI2 RNA_MIUI3
+RUN_MODULES=
+
+#### [5] 是否Zipalign Apks    [true/false]
+RUN_ZIPALIGN=false
+
+#### [6] 个性化版本号后缀,例如：Repack_By_R.N.A    【不得含有空格，留空则不修改】
+PERSONALIZED_LOGO=Repack_By_Errors
+
+#### [7] 合成格式 [br/dat/img] 三选一，选择 br 时 REPACK_BROTLI_LEVEL 值必须设置为 [0~9] 之间
+REPACK_FORMAT=br
+REPACK_BROTLI_LEVEL=2
+
+#### [8] 添加额外压缩的文件/夹，【文件/夹 必须在 当前工程文件夹内】
+COMPRESS_EXTRA_LIST=META-INF firmware-update exaid.img
+
+#### [9] 输出zip路径，若不在工具目录内[RNA.EXE同级文件夹]请使用完整路径，路径不得含有空格！！！
+## 其它路径
+#ROM_OUTPUT_PATH=C:\Users\errors\Downloads
+## 当前工程文件夹，固定写法1
+#ROM_OUTPUT_PATH=PROJECT_DIR
+## RNA.EXE同级文件夹，固定写法2
+ROM_OUTPUT_PATH=LOCAL_DIR
+
+#### [10] 制作完成后是否删除该工程文件夹，注意：如果启用，输出的zip路径[9] 不要选择当前工程文件夹内！！！    [true/false]
+DELETE_AFTER_DONE=true
