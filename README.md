@@ -5,9 +5,11 @@
 【 **R.N.A** 】
  **在WIN10系统中（无需WSL）对安卓11及动态分区ROM进行解包打包工具** 
 
-注： :one: 只解payload.bin，暂时不能打包
-     :two: 支持部分super.img解包及打包（打包需要借助wsl子系统，vAB及AB须手动修改misc_info.txt，例如添加：ab_update=true
-virtual_ab=true）
+ **注意** ： 
+      :one:  **只解payload.bin，暂时不能打包** 
+
+      :two:  **支持部分super.img解包及打包（打包需要借助wsl子系统，vAB及AB须手动修改misc_info.txt，例如添加：ab_update=true
+virtual_ab=true）** 
 
 
 ```
@@ -27,7 +29,10 @@ virtual_ab=true）
           请正确配置好 【 RNA\Insides\RNAONEKEY.TXT 】 后继续 !!!
 
 请按任意键继续. . .
+
+
 ```
+
 
 
 
