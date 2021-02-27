@@ -10,7 +10,7 @@
 
  :tw-1f170: **只解payload.bin，暂时不能打包** 
 
- :tw-1f171: **支持部分super.img解包及打包，打包需要借助wsl子系统，vA/B及A/B须手动修改[misc_info.txt]，例如添加：ab_update=true** 
+ :tw-1f171: **【测试】支持部分super.img解包及打包，打包需要借助wsl子系统，vA/B及A/B须手动修改[misc_info.txt]，例如添加：ab_update=true** 
 
 
 ### 下载
