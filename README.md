@@ -17,7 +17,7 @@
 
 [下载地址 请优先下载最新版](https://gitee.com/sharpeter/rna/releases)
 
-[免费版D.N.A链接](https://gitee.com/sharpeter/DNA)
+[如非必要推荐使用免费版D.N.A链接](https://gitee.com/sharpeter/DNA)
 
 
 
