@@ -23,7 +23,7 @@
 
 ### 说明
 
-打开工具，按提示扫码付费【35元】（ _由于旧版本还在使用并不可修改，实际需付金额请以此处为准_ ）后，复制你的【 **机器码** 】和【 **付费截图** 】按以下任一方式操作【尽量选择QQ】：
+打开工具，按提示扫码付费【50元】（ _由于旧版本还在使用并不可修改，实际需付金额请以此处为准_ ）后，复制你的【 **机器码** 】和【 **付费截图** 】按以下任一方式操作【尽量选择QQ】：
 
 1. 加本人QQ: 599513282  [Errors]    备注 【  **付费授权**  】
 
@@ -36,10 +36,10 @@
 
 ### 收款码
 
-![支付宝](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-35.jpg)
+![支付宝](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-50.jpg)
 
 
-![微信](https://gitee.com/sharpeter/rna/raw/master/donate/Wechat-35.png)
+![微信](https://gitee.com/sharpeter/rna/raw/master/donate/Wechat-50.png)
 
 
 ### 预览图
