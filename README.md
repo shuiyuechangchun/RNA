@@ -19,6 +19,8 @@
 
 [如非必要推荐使用免费版D.N.A链接](https://gitee.com/sharpeter/DNA)
 
+非诚勿扰，不要问技术性问题！！！
+
 
 
 ### 说明
