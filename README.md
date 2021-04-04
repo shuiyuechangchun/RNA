@@ -36,10 +36,10 @@
 
 ### 收款码
 
-![支付宝](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-500.jpg)
+![支付宝](https://gitee.com/sharpeter/rna/raw/master/donate/Alipay-50.jpg)
 
 
-![微信](https://gitee.com/sharpeter/rna/raw/master/donate/Wechat-500.png)
+![微信](https://gitee.com/sharpeter/rna/raw/master/donate/Wechat-50.png)
 
 
 ### 预览图
